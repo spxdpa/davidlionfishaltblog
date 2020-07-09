@@ -17,3 +17,4 @@ fields:
   label: tags
 pages:
 - src/posts/testing-soundcloud.md
+- src/posts/testing-video.md
