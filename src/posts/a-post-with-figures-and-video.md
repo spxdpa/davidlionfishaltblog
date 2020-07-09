@@ -26,8 +26,3 @@ Finally, how about a `<blockquote>`?
 ![Person holds up a photograph of a riverside and buildings with the same river as a backdrop](/images/demo-image-2.jpg "Remember, if you want a figure and caption, add a 'title' attribute to image in the body field — Photo by Kharytonova Antonina on Unsplash.")
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
-
-  
-Youtube<iframe width="560" height="315" src="[https://www.youtube.com/embed/PcCEN-H9kjA](https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e "https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="[https://lbry.tv/](https://lbry.tv/ "https://lbry.tv/")$/embed/wwiiifight/7cebc9fcc06e0be8cd7158ce7e366bfc97949c50" allowfullscreen></iframe>
