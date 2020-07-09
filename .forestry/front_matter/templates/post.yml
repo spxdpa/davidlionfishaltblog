@@ -16,4 +16,5 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/test-audius.md
 - src/posts/testing-soundcloud.md
