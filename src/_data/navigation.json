@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
+      "text": "xyz",
+      "url": "davidlionfish.xyz",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
+      "text": "eth",
+      "url": "davidlionfish.eth",
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
+      "text": "crypto",
+      "url": "https://viewblock.io/unstoppable/davidlionfish.crypto",
       "external": false
     }
   ]
