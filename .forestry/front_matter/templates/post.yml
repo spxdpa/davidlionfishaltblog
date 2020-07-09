@@ -16,4 +16,5 @@ fields:
   name: tags
   label: tags
 pages:
+- src/posts/testing-embedding-bittube-videos.md
 - src/posts/testing-embedding-lbry-videos.md
