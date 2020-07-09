@@ -27,10 +27,6 @@ Finally, how about a `<blockquote>`?
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
 
-Bittube
-
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="[https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e](https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e "https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e")" frameborder="0" allowfullscreen></iframe>
-
   
 Youtube<iframe width="560" height="315" src="[https://www.youtube.com/embed/PcCEN-H9kjA](https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e "https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
