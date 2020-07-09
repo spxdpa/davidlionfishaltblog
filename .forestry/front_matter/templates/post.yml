@@ -17,4 +17,3 @@ fields:
   label: tags
 pages:
 - src/posts/testing-embedding-lbry-videos.md
-- src/posts/testing-embedding-soundcloud.md
