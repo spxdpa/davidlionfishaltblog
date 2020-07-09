@@ -2,12 +2,12 @@
   "items": [
     {
       "text": "xyz",
-      "url": "davidlionfish.xyz",
+      "url": "https://davidlionfish.xyz/",
       "external": false
     },
     {
       "text": "eth",
-      "url": "davidlionfish.eth",
+      "url": "https://blockscan.com/d/davidlionfish.eth",
       "external": true
     },
     {
