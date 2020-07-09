@@ -27,12 +27,11 @@ Finally, how about a `<blockquote>`?
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
 
-audius
+Bittube
 
-<iframe src=[https://audius.co/embed/track?id=77114&ownerId=21526&flavor=compact](https://audius.co/embed/track?id=77114&ownerId=21526&flavor=compact "https://audius.co/embed/track?id=77114&ownerId=21526&flavor=compact") width="100%" height="120" allow="encrypted-media" style="border: none;"></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="[https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e](https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e "https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e")" frameborder="0" allowfullscreen></iframe>
 
-audius standard  
-<iframe src=[https://audius.co/embed/track?id=77114&ownerId=21526&flavor=card](https://audius.co/embed/track?id=77114&ownerId=21526&flavor=card "https://audius.co/embed/track?id=77114&ownerId=21526&flavor=card") width="100%" height="480" allow="encrypted-media" style="border: none;"></iframe>
+  
+Youtube<iframe width="560" height="315" src="[https://www.youtube.com/embed/PcCEN-H9kjA](https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e "https://bittube.video/videos/embed/d8f4dd32-d859-4088-9479-2ded5d39f60e")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-soundcloud  
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="[https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/854894704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true](https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/854894704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/854894704&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true")"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="[https://soundcloud.com/david-anderson-311246111](https://soundcloud.com/david-anderson-311246111 "https://soundcloud.com/david-anderson-311246111")" title="davidlionfish" target="_blank" style="color: #cccccc; text-decoration: none;">davidlionfish</a> · <a href="[https://soundcloud.com/david-anderson-311246111/waves](https://soundcloud.com/david-anderson-311246111/waves "https://soundcloud.com/david-anderson-311246111/waves")" title="Waves" target="_blank" style="color: #cccccc; text-decoration: none;">Waves</a></div>
+<iframe width="560" height="315" src="[https://lbry.tv/](https://lbry.tv/ "https://lbry.tv/")$/embed/wwiiifight/7cebc9fcc06e0be8cd7158ce7e366bfc97949c50" allowfullscreen></iframe>
