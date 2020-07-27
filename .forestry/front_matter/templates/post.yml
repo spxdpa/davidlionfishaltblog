@@ -17,5 +17,6 @@ fields:
   label: tags
 pages:
 - src/posts/testing-audius.md
+- src/posts/testing-cms-works.md
 - src/posts/testing-soundcloud.md
 - src/posts/testing-video.md
