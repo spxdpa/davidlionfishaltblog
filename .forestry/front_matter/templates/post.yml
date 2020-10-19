@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 label: Post
 hide_body: false
@@ -19,3 +20,27 @@ pages:
 - src/posts/testing-audius.md
 - src/posts/testing-soundcloud.md
 - src/posts/testing-video.md
+=======
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  default: now
+  config:
+    date_format: YYYY-MM-DD
+    export_format: YYYY-MM-DD
+- type: list
+  name: tags
+  label: tags
+pages:
+- src/posts/testing-audius.md
+- src/posts/testing-cms-works.md
+- src/posts/testing-soundcloud.md
+- src/posts/testing-video.md
+>>>>>>> c70e524930082fbc821eac44bf18a685cfcbd40f
