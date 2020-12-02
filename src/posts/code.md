@@ -1,14 +1,15 @@
 ---
 date: 2020-12-02
-title: Code
-tags: []
+title: code for the pi
+tags:
+- raspberry pi
 
 ---
-Updating my pi
+# Updating my pi
 
 ***
 
-Some code to update my pi
+# Some code to update my pi
 
 ## The `.update` method
 
@@ -19,6 +20,7 @@ Some code to update my pi
     }
 
 then do this
+***
 
     .wrapper {
       max-width: 50rem;
@@ -28,7 +30,7 @@ then do this
 
 ***
 
-### How the `.update` method works
+## How the `.update` method works
 
 It uses a script.
 
